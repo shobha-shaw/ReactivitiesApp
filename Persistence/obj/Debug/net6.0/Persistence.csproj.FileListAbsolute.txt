@@ -1,0 +1,15 @@
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb

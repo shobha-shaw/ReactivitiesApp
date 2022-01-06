@@ -1,0 +1,12 @@
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\bin\Debug\net6.0\ref\Domain.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+F:\ShobhaExperimentNet\VS_2022\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
